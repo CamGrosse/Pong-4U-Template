@@ -44,8 +44,8 @@ namespace Pong
         Boolean ballMoveRight = true;
         Boolean ballMoveDown = true;
         const int BALL_SPEED = 4;
-        const int BALL_WIDTH = 1;
-        const int BALL_HEIGHT = 1;
+        const int BALL_WIDTH = 20;
+        const int BALL_HEIGHT = 20;
         Rectangle ball;
 
         //player values
